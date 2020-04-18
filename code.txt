@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 kuro
 anh yeu em
+=======
+>>>>>>> parent of b64c9a2... change code
